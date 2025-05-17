@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Thai, and I am 👨‍💻 Computer Science student at Chiang Mai University.
+Hi, I'm Thai, and I am a Computer Science student at Chiang Mai University.
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-tai&theme=nord_bright" />
 
