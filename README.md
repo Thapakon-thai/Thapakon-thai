@@ -1,7 +1,7 @@
 #  About Me
 Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University**.
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=nord_bright" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=dark" alt="github-streak" height="150"/>
 
 ---
 
@@ -36,9 +36,6 @@ Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University
 
 ---
 ## 🧩 LeetCode Stats
-<!--START_SECTION:leetcode-->
-<!--END_SECTION:leetcode-->
+![](https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
