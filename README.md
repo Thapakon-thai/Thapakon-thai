@@ -1,11 +1,11 @@
-#  About Me
-Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University**.
+# 👋 About Me
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=dark" alt="github-streak" height="150"/>
+Hi, I'm **Thai**, a passionate Computer Science student at **Chiang Mai University** 🇹🇭  
+I enjoy building full-stack applications, exploring system design, and solving challenging coding problems.
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=dark" alt="github-streak" width="800" height="150"/>
 
 ---
-
-## Tech Stack
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,7 +15,7 @@ Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frontend Development
+### Frontend 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -27,7 +27,7 @@ Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### Database
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -35,7 +35,15 @@ Hi, I'm **Thai**, and I am a Computer Science student at **Chiang Mai University
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🧩 LeetCode Stats
+
+## 🧠 LeetCode Stats
+
 ![](https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap)
 
+---
 
+## 📫 Connect with Me
+
+---
+
+> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
