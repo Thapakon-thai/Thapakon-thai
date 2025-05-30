@@ -8,6 +8,15 @@ I enjoy building full-stack applications, exploring system design, and solving c
   <br/>
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=bright" alt="github-streak"/> -->
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thapakon-thai/thapakon-thai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation"/>
+  <img src="https://raw.githubusercontent.com/thapakon-thai/thapakon-thai/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation"/>
+</p>
+
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=thapakon-thai">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/thapakon-thai?style=flat&label=Stars&color=%23e3b341">
+</p>
 
 
 ---
