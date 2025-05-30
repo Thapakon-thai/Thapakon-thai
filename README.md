@@ -4,9 +4,8 @@ Hi, I'm **Thai**, a passionate Computer Science student at **Chiang Mai Universi
 I enjoy building full-stack applications, exploring system design, and solving challenging coding problems.
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=github" />
-  <br/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=bright" alt="github-streak"/> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=github" width="850" />
+  <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=bright" alt="github-streak"/> -->
 </p>
 
 <p align="center">
@@ -51,10 +50,9 @@ I enjoy building full-stack applications, exploring system design, and solving c
 
 ---
 
-## 🧠 LeetCode Stats
+### LeetCode Stats
 <p >
-
   <img src="https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap"/>
 </p>
 
->  *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+---
