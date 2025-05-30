@@ -3,7 +3,12 @@
 Hi, I'm **Thai**, a passionate Computer Science student at **Chiang Mai University** 🇹🇭  
 I enjoy building full-stack applications, exploring system design, and solving challenging coding problems.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=dark" alt="github-streak" width="800" height="150"/>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=nord_bright" />
+  <br/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=bright" alt="github-streak"/> -->
+</p>
+
 
 ---
 
@@ -37,13 +42,9 @@ I enjoy building full-stack applications, exploring system design, and solving c
 ---
 
 ## 🧠 LeetCode Stats
+<p >
 
-![](https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap"/>
+</p>
 
----
-
-## 📫 Connect with Me
-
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+>  *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
