@@ -4,7 +4,7 @@ Hi, I'm **Thai**, a passionate Computer Science student at **Chiang Mai Universi
 I enjoy building full-stack applications, exploring system design, and solving challenging coding problems.
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=github" width="840" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=github" width="800" />
   <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thapakon-thai&theme=bright" alt="github-streak"/> -->
 </p>
 
@@ -55,4 +55,3 @@ I enjoy building full-stack applications, exploring system design, and solving c
   <img src="https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap"/>
 </p>
 
----
