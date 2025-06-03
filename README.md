@@ -2,7 +2,7 @@
 <p align="center">Hi, I'm <strong>@thapakon-thai</strong> — Code Alchemist in Training </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Code+like+a+student.;Think+like+an+engineer.;Ship+like+a+pro." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=Start+with+curiosity.;Build+with+intention.;Fail+fast,+learn+faster." />
 </p>
 
 <p align="center">
