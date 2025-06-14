@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=github" width="800" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=vue" width="800" />
 </p>
 
 <p align="center">
