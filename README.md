@@ -21,27 +21,6 @@
 
 ---
 
-### About Me
-
-I'm **Thai**, a passionate Computer Science student from **Chiang Mai University 🇹🇭**.  
-I specialize in building modern full-stack applications, exploring backend architecture, and solving complex algorithmic problems.
-
-I don’t just code — I **design**, **debug**, and **deploy** with precision.
-
----
-
-### Tech Stack
-
-```
-Languages       ::  C++, Python, Java, Go, JavaScript, Bash
-Frontend        ::  HTML5, CSS3, jQuery, TailwindCSS
-Backend         ::  Flask, Node.js, Gunicorn
-Database        ::  PostgreSQL
-Tools & DevOps  ::  Docker, Git, GitHub, Linux CLI
-```
-
----
-
 ### LeetCode Level (in progress)
 
 <p align="center">
