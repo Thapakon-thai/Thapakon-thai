@@ -44,24 +44,40 @@
 
 ---
 
-### ⚡ Current Focus & Goals
+### 🔭 Current Focus: The Integration Project
 
-I am currently preparing for the **Software Engineering Internship 2026**. My daily grind involves:
+I am focused on securing a **Software Engineering Internship (2026)** by bridging the gap between Development, Operations, and Security.
 
-- 🐳 **DevOps:** Building Dockerized full-stack systems.
-- ☕ **Java Ecosystem:** Deepening knowledge of OOP and enterprise architecture.
-- 🏗️ **Architecture:** Designing scalable backend systems.
-- 📊 **Data:** Implementing data-driven app analytics.
-- 🛡️ **Security:** Hardening OS & implementing Web Security Best Practices.
-- 🧩 **Algorithms:** Sharpening problem-solving skills on LeetCode & Codeforces.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏗️ Building & Integrating</h3>
+      <p align="center"><i>Combining backend, devops, and security into a unified system.</i></p>
+      <ul>
+        <li><b>System Integration:</b> Architecting scalable backends (Java/Go) within Dockerized environments.</li>
+        <li><b>Security First:</b> Hardening Linux OS & implementing rigorous Web Security practices.</li>
+        <li><b>Data Loop:</b> Integrating real-time app analytics for data-driven decision making.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Sharpening The Mind</h3>
+      <p align="center"><i>Continuous improvement and problem solving.</i></p>
+      <ul>
+        <li><b>Algorithmic Mastery:</b> Grinding LeetCode & Codeforces (focus on Graphs/DP).</li>
+        <li><b>Java Ecosystem:</b> Deep dive into Enterprise Architecture & OOP patterns.</li>
+        <li><b>Knowledge:</b> Researching System Design principles for high-load applications.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 GitHub Stats & LeetCode
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=vue" width="55%" />
-  <img src="https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap&theme=dark" width="40%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thapakon-thai&theme=vue" width="60%" />
+  <!-- <img src="https://leetcard.jacoblin.cool/thapakon-thai?ext=heatmap&theme=dark" width="40%" /> -->
 </div>
 
 <br />
@@ -74,10 +90,10 @@ I am currently preparing for the **Software Engineering Internship 2026**. My da
 ---
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:thapakon.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/thapakon-ni">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
