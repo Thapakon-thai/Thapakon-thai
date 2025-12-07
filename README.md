@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Start+with+curiosity.;Build+with+intention.;Fail+fast,+learn+faster." alt="Typing SVG" />
 
   # Hi, I'm Thapakon 👨‍💻
-  ### 🛠️ Code Alchemist in Training
 
   <p>
     <a href="https://github.com/thapakon-thai">
