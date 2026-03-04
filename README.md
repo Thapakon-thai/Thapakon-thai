@@ -4,15 +4,8 @@
 
   # Hi, I'm Thapakon 👨‍💻
 
-  <p>
-    <a href="https://github.com/thapakon-thai">
-      <img src="https://komarev.com/ghpvc/?username=thapakon-thai&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
-    </a>
-    <img src="https://img.shields.io/github/stars/thapakon-thai?style=flat&label=Stars&color=yellow" alt="Stars" />
-  </p>
 </div>
 
----
 
 ### 🚀 Tech Stack
 
@@ -45,9 +38,9 @@
 
 ### 🔭 Current Focus: The Integration Project
 
-I am focused on securing a **Software Engineering Internship (2026)** by bridging the gap between Development, Operations, and Security.
+I am focused on securing a **Software Engineering Internship (2026)**.
 
-<table>
+<!-- <table>
   <tr>
     <td width="50%">
       <h3 align="center">🏗️ Building & Integrating</h3>
@@ -68,7 +61,7 @@ I am focused on securing a **Software Engineering Internship (2026)** by bridgin
       </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
